@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Gengmo Zhou is currently a Ph.D. student under the supervision of Prof. [Zhewei Wei](https://gsai.ruc.edu.cn/zhewei) at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), where he also completed his undergraduate studies at the [School of Information](http://info.ruc.edu.cn/). In addition to his academic pursuits, Gengmo is also gaining practical experience through an internship at [DP Technology](https://www.dp.tech/). His research interests lie in AI4science, with a special focus on the application of AI in pharmaceuticals. Recently, he has been engaged in the study of 3D molecule modeling, aiming to extend its application to various downstream tasks.
+Gengmo Zhou is currently a Ph.D. student under the supervision of Prof. [Zhewei Wei](https://gsai.ruc.edu.cn/zhewei) at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), where he also completed his undergraduate studies at the [School of Information](http://info.ruc.edu.cn/). In addition to his academic pursuits, Gengmo is also gaining practical experience through an internship at [DP Technology](https://www.dp.tech/). His research interests lie in AI4Science, with a special focus on the application of AI in pharmaceuticals. Recently, he has been engaged in the study of 3D molecule modeling, aiming to extend its application to various downstream tasks.
 
 **Contact infomation**
 
@@ -25,7 +25,7 @@ Publications
 
 - [Bridging Machine Learning and Thermodynamics for Accurate pKa Prediction](https://zhougengmo.github.io/publication/unipka)
 
-  Weiliang Luo*, **Gengmo Zhou***, Zhengdan Zhu, Yannan Yuan, Guolin Ke, Zhewei Wei, Zhifeng Gao, Hang Zheng
+  Weiliang Luo\*, **Gengmo Zhou**\*, Zhengdan Zhu, Yannan Yuan, Guolin Ke, Zhewei Wei, Zhifeng Gao, Hang Zheng
 
   Cover, *JACS Au* Vol 4/Issue 9. [[paper]](https://pubs.acs.org/doi/epdf/10.1021/jacsau.4c00271?ref=article_openPDF), [[code]](https://github.com/ZhouGengmo/Uni-pKa), [[notebook]](https://bohrium.dp.tech/notebooks/38543442597), [[app]](https://bohrium.dp.tech/apps/uni-pka)
 
