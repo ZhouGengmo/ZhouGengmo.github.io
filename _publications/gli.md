@@ -2,8 +2,7 @@
 title: "Predicting protein-ligand binding affinity via joint global-local interaction modeling"
 collection: publications
 category: conferences
-permalink: /publication/
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/gli
 date: 2022-09-01
 venue: 'ICDM 2022'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10027686/'

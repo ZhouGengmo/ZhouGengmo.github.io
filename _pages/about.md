@@ -22,6 +22,28 @@ Publications
 
   *NeurIPS* 2024. [[paper]](https://openreview.net/pdf?id=wJAF8TGVUG), [[app]](https://bohrium.dp.tech/apps/s-molsearch)
 
+
+- [Bridging Machine Learning and Thermodynamics for Accurate pKa Prediction](https://zhougengmo.github.io/publication/unipka)
+
+  Weiliang Luo*, **Gengmo Zhou***, Zhengdan Zhu, Yannan Yuan, Guolin Ke, Zhewei Wei, Zhifeng Gao, Hang Zheng
+
+  Cover, *JACS Au* Vol 4/Issue 9. [[paper]](https://pubs.acs.org/doi/epdf/10.1021/jacsau.4c00271?ref=article_openPDF), [[code]](https://github.com/ZhouGengmo/Uni-pKa), [[notebook]](https://bohrium.dp.tech/notebooks/38543442597), [[app]](https://bohrium.dp.tech/apps/uni-pka)
+
+
+- [Uni-Mol Docking V2: Towards Realistic and Accurate Binding Pose Prediction](https://zhougengmo.github.io/publication/unimol_docking_v2)
+
+  Eric Alcaide, Zhifeng Gao, Guolin Ke, Yaqi Li, Linfeng Zhang, Hang Zheng,   **Gengmo Zhou** (sorted by surname)
+
+  Preprint. [[paper]](https://arxiv.org/pdf/2405.11769), [[code]](https://github.com/deepmodeling/Uni-Mol)
+
+
+- [Synergistic application of molecular docking and machine learning for improved binding pose](https://zhougengmo.github.io/publication/prdock)
+
+  Yaqi Li, Hongrui Lin, He Yang, Yannan Yuan, Rongfeng Zou, **Gengmo Zhou**, Linfeng Zhang, Hang Zheng
+
+  *National Science Open*, Vol 3/No 2 (2024). [[paper]](https://nso-journal.org/articles/nso/pdf/2024/02/NSO20230058.pdf)
+
+
 - [Uni-Mol: A Universal 3D Molecular Representation Learning Framework](https://zhougengmo.github.io/publication/unimol)
 
   **Gengmo Zhou**, Zhifeng Gao, Qiankun Ding, Hang Zheng, Hongteng Xu, Zhewei Wei, Linfeng Zhang, Guolin Ke
