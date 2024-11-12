@@ -16,17 +16,17 @@ Email: zgm2015@ruc.edu.cn
 Publications
 ======
 
-- [Uni-Mol: A Universal 3D Molecular Representation Learning Framework](https://openreview.net/pdf?id=6K2RM6wVqKu)
+- [Uni-Mol: A Universal 3D Molecular Representation Learning Framework](ZhouGengmo.github.io/_publications/2009-10-01-paper-title-number-1.md)
 
   **Gengmo Zhou**, Zhifeng Gao, Qiankun Ding, Hang Zheng, Hongteng Xu, Zhewei Wei, Linfeng Zhang, Guolin Ke
 
-  *ICLR* 2023. [[code]](https://github.com/deepmodeling/Uni-Mol)
+  *ICLR* 2023. [[paper]](https://openreview.net/pdf?id=6K2RM6wVqKu) [[code]](https://github.com/deepmodeling/Uni-Mol)
 
 - [Do Deep Learning Methods Really Perform Better in Molecular Conformation Generation? ](https://openreview.net/pdf?id=W-Ikct539G)
 
   **Gengmo Zhou**, Zhifeng Gao, Zhewei Wei, Hang Zheng, Guolin Ke
 
-  Oral, *MLDD* workshop, *ICLR* 2023. [[code]](https://gist.github.com/ZhouGengmo/5b565f51adafcd911c0bc115b2ef027c)
+  Oral, *MLDD* workshop, *ICLR* 2023. [[paper]](https://openreview.net/pdf?id=W-Ikct539G) [[code]](https://gist.github.com/ZhouGengmo/5b565f51adafcd911c0bc115b2ef027c)
 
 - [Predicting protein-ligand binding affinity via joint global-local interaction modeling](https://ieeexplore.ieee.org/abstract/document/10027686/)
 
