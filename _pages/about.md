@@ -16,20 +16,26 @@ Email: zgm2015@ruc.edu.cn
 Publications
 ======
 
-- [Uni-Mol: A Universal 3D Molecular Representation Learning Framework](ZhouGengmo.github.io/_publications/2009-10-01-paper-title-number-1.md)
+- [S-MolSearch: 3D Semi-supervised Contrastive Learning for Bioactive Molecule Search](https://zhougengmo.github.io/publication/smolsearch)
+
+  **Gengmo Zhou**, Zhen Wang, Feng Yu, Guolin Ke, Zhewei Wei, Zhifeng Gao
+
+  *NeurIPS* 2024. [[paper]](https://openreview.net/pdf?id=wJAF8TGVUG), [[app]](https://bohrium.dp.tech/apps/s-molsearch)
+
+- [Uni-Mol: A Universal 3D Molecular Representation Learning Framework](https://zhougengmo.github.io/publication/unimol)
 
   **Gengmo Zhou**, Zhifeng Gao, Qiankun Ding, Hang Zheng, Hongteng Xu, Zhewei Wei, Linfeng Zhang, Guolin Ke
 
-  *ICLR* 2023. [[paper]](https://openreview.net/pdf?id=6K2RM6wVqKu) [[code]](https://github.com/deepmodeling/Uni-Mol)
+  *ICLR* 2023. [[paper]](https://openreview.net/pdf?id=6K2RM6wVqKu), [[code]](https://github.com/deepmodeling/Uni-Mol)
 
-- [Do Deep Learning Methods Really Perform Better in Molecular Conformation Generation? ](https://openreview.net/pdf?id=W-Ikct539G)
+- [Do Deep Learning Methods Really Perform Better in Molecular Conformation Generation? ](https://zhougengmo.github.io/publication/rdkit_confg)
 
   **Gengmo Zhou**, Zhifeng Gao, Zhewei Wei, Hang Zheng, Guolin Ke
 
-  Oral, *MLDD* workshop, *ICLR* 2023. [[paper]](https://openreview.net/pdf?id=W-Ikct539G) [[code]](https://gist.github.com/ZhouGengmo/5b565f51adafcd911c0bc115b2ef027c)
+  Oral, *MLDD* workshop, *ICLR* 2023. [[paper]](https://openreview.net/pdf?id=W-Ikct539G), [[code]](https://gist.github.com/ZhouGengmo/5b565f51adafcd911c0bc115b2ef027c)
 
-- [Predicting protein-ligand binding affinity via joint global-local interaction modeling](https://ieeexplore.ieee.org/abstract/document/10027686/)
+- [Predicting protein-ligand binding affinity via joint global-local interaction modeling](https://zhougengmo.github.io/publication/gli)
 
   Yang Zhang, **Gengmo Zhou**, Zhewei Wei, Hongteng Xu
 
-  *ICDM* 2022
+  *ICDM* 2022. [[paper]](https://ieeexplore.ieee.org/abstract/document/10027686/), [[code]](https://github.com/fengyuewuya/global_local_interaction_framework)
