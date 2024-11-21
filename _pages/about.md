@@ -16,6 +16,8 @@ Email: zgm2015@ruc.edu.cn
 Publications
 ======
 
+### 2024
+
 - [S-MolSearch: 3D Semi-supervised Contrastive Learning for Bioactive Molecule Search](https://zhougengmo.github.io/publication/smolsearch)
 
   **Gengmo Zhou**, Zhen Wang, Feng Yu, Guolin Ke, Zhewei Wei, Zhifeng Gao
@@ -43,6 +45,7 @@ Publications
 
   *National Science Open*, Vol 3/No 2 (2024). [[paper]](https://nso-journal.org/articles/nso/pdf/2024/02/NSO20230058.pdf)
 
+### 2023
 
 - [Uni-Mol: A Universal 3D Molecular Representation Learning Framework](https://zhougengmo.github.io/publication/unimol)
 
@@ -55,6 +58,8 @@ Publications
   **Gengmo Zhou**, Zhifeng Gao, Zhewei Wei, Hang Zheng, Guolin Ke
 
   Oral, *MLDD* workshop, *ICLR* 2023. [[paper]](https://openreview.net/pdf?id=W-Ikct539G), [[code]](https://gist.github.com/ZhouGengmo/5b565f51adafcd911c0bc115b2ef027c)
+
+### 2022
 
 - [Predicting protein-ligand binding affinity via joint global-local interaction modeling](https://zhougengmo.github.io/publication/gli)
 
